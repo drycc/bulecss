@@ -3,7 +3,10 @@ FROM registry.drycc.cc/drycc/base:bullseye as build-app
 
 ENV NODE_VERSION="16.14.2"
 
-RUN install-stack node $NODE_VERSION && . init-stack \
-  && npm install --global grunt-cli
+RUN install-packages python3-pip \
+  && install-stack node $NODE_VERSION \
+  && . init-stack \
+  && npm install --global grunt-cli \
+  && pip install oss2
 
 WORKDIR /workspace
