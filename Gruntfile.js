@@ -8,9 +8,9 @@ module.exports = function(grunt) {
          compress: {
              files: {
                  'build/bulecss.css': [
-                     "bulecss.css",
-                     "home.css",
-                     "dashboard.css"
+                     "src/bulecss.css",
+                     "src/home.css",
+                     "src/dashboard.css"
                  ]
              }
          }
