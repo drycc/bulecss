@@ -1,0 +1,9 @@
+
+FROM registry.drycc.cc/drycc/base:bullseye as build-app
+
+ENV NODE_VERSION="16.14.2"
+
+RUN install-stack node $NODE_VERSION && . init-stack \
+  && npm install --global grunt-cli
+
+WORKDIR /workspace
