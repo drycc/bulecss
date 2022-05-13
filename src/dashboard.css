@@ -4616,21 +4616,21 @@ label code, pre code {
     font-family: benton-sans;
     font-style: normal;
     font-weight: 200;
-    src: url(/src/assets/style/bentonsans-book.eot) format("embedded-opentype"), url(/src/assets/style/bentonsans-book.woff) format("woff"), url(/src/assets/style/bentonsans-book.ttf) format("truetype")
+    src: url(fonts/bentonsans-book.eot) format("embedded-opentype"), url(fonts/bentonsans-book.woff) format("woff"), url(fonts/bentonsans-book.ttf) format("truetype")
 }
 
 @font-face {
     font-family: benton-sans;
     font-style: normal;
     font-weight: 400;
-    src: url(/src/assets/style/bentonsans-regular.eot) format("embedded-opentype"), url(/src/assets/style/bentonsans-regular.woff) format("woff"), url(/src/assets/style/bentonsans-regular.ttf) format("truetype")
+    src: url(fonts/bentonsans-regular.eot) format("embedded-opentype"), url(fonts/bentonsans-regular.woff) format("woff"), url(fonts/bentonsans-regular.ttf) format("truetype")
 }
 
 @font-face {
     font-family: benton-sans;
     font-style: normal;
     font-weight: 700;
-    src: url(/src/assets/style/bentonsans-medium.eot?#iefix) format("embedded-opentype"), url(/src/assets/style/bentonsans-medium.woff) format("woff"), url(/src/assets/style/bentonsans-medium.ttf) format("truetype")
+    src: url(fonts/bentonsans-medium.eot?#iefix) format("embedded-opentype"), url(fonts/bentonsans-medium.woff) format("woff"), url(fonts/bentonsans-medium.ttf) format("truetype")
 }
 
 .dyno-tier-picker-item-size-name, .panel-section .panel-title, h4 {
@@ -18211,21 +18211,21 @@ table.functions th:last-child {
     font-family: salesforce-sans;
     font-style: normal;
     font-weight: 200;
-    src: url(/src/assets/style/SalesforceSans-Book.woff) format("woff"), url(/src/assets/style/SalesforceSans-Book.ttf) format("truetype")
+    src: url(fonts/SalesforceSans-Book.woff) format("woff"), url(fonts/SalesforceSans-Book.ttf) format("truetype")
 }
 
 @font-face {
     font-family: salesforce-sans;
     font-style: normal;
     font-weight: 400;
-    src: url(/src/assets/style/SalesforceSans-Regular.woff) format("woff"), url(/src/assets/style/SalesforceSans-Regular.ttf) format("truetype")
+    src: url(fonts/SalesforceSans-Regular.woff) format("woff"), url(fonts/SalesforceSans-Regular.ttf) format("truetype")
 }
 
 @font-face {
     font-family: salesforce-sans;
     font-style: normal;
     font-weight: 700;
-    src: url(/src/assets/style/SalesforceSans-Bold.woff) format("woff"), url(/src/assets/style/SalesforceSans-Bold.ttf) format("truetype")
+    src: url(fonts/SalesforceSans-Bold.woff) format("woff"), url(fonts/SalesforceSans-Bold.ttf) format("truetype")
 }
 
 * {
