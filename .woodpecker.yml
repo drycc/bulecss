@@ -1,0 +1,32 @@
+platform: linux/amd64
+
+labels:
+  type: exec
+
+pipeline:
+- name: build
+  image: bash
+  commands:
+  - docker build -f Dockerfile.build . -t grunt
+  - docker run --rm -v $PWD:/workspace grunt _scripts/build.sh
+  when:
+    event:
+    - tag
+
+- name: publish
+  image: bash
+  commands:
+  - docker run --rm
+    --env OSS_ENDPOINT=$OSS_ENDPOINT
+    --env OSS_ACCESS_KEY_ID=$OSS_ACCESS_KEY_ID
+    --env OSS_ACCESS_KEY_SECRET=$OSS_ACCESS_KEY_SECRET
+    -v $PWD:/workspace
+    grunt
+    python3 _scripts/storage.py build
+  secrets:
+  - oss_endpoint
+  - oss_access_key_id
+  - oss_access_key_secret
+  when:
+    event:
+    - tag
