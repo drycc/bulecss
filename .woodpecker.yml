@@ -7,8 +7,10 @@ pipeline:
 - name: build
   image: bash
   commands:
-  - docker build -f Dockerfile.build . -t grunt
+  - docker build --build-arg CODENAME=$CODENAME -f Dockerfile.build . -t grunt
   - docker run --rm -v $PWD:/workspace grunt _scripts/build.sh
+  secrets:
+  - codename
   when:
     event:
     - tag

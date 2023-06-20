@@ -1,12 +1,13 @@
+ARG CODENAME
+FROM registry.drycc.cc/drycc/base:${CODENAME} as build-app
 
-FROM registry.drycc.cc/drycc/base:bookworm as build-app
+ENV NODE_VERSION="18"
+ENV PYTHON_VERSION="3.11"
 
-ENV NODE_VERSION="16.14.2"
-
-RUN install-packages python3-pip \
-  && install-stack node $NODE_VERSION \
+RUN install-stack node $NODE_VERSION \
+  && install-stack python $PYTHON_VERSION \
   && . init-stack \
   && npm install --global grunt-cli \
-  && pip install oss2
+  && pip install oss2 --disable-pip-version-check --no-cache-dir 2>/dev/null
 
 WORKDIR /workspace
