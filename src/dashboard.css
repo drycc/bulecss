@@ -5417,7 +5417,7 @@ form label {
     z-index: 2
 }
 
-.gradient-primary, .purple-gradient {
+.gradient-primary, .bule-gradient {
     background-image: -webkit-linear-gradient(bottom right, #409EFF,  #a0cfff);
     background-image: linear-gradient(to top left, #409EFF,  #a0cfff);
     background-color: #409EFF
@@ -5792,7 +5792,7 @@ form label {
     color: #D64242
 }
 
-#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, #overview-page .data-unavailable, .buildpack-installations-list .sortable-item.is-dragging, .content-box, .metrics__chart-sorting .sortable-item.is-dragging, .metrics__monitor-preview-chart__loading, .metrics__not-available, .purple-box {
+#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, #overview-page .data-unavailable, .buildpack-installations-list .sortable-item.is-dragging, .content-box, .metrics__chart-sorting .sortable-item.is-dragging, .metrics__monitor-preview-chart__loading, .metrics__not-available, .bule-box {
     position: relative;
     border-radius: 4px
 }
@@ -7284,8 +7284,8 @@ a.deprecated:focus, a.deprecated:hover {
     margin-right: 0 !important
 }
 
-.attachments-dropdown .malibu-fill-gradient-purple {
-    fill: url(#gradient-purple)
+.attachments-dropdown .malibu-fill-gradient-bule {
+    fill: url(#gradient-bule)
 }
 
 .add.adding .icon {
@@ -7934,7 +7934,7 @@ progress::-moz-progress-bar {
     border-color: #409EFF
 }
 
-.metrics__color--purple-001--legend--border, .metrics__color--purple-002--legend--border, .metrics__color--purple-003--legend--border, .metrics__color--purple-004--legend--border {
+.metrics__color--bule-001--legend--border, .metrics__color--bule-002--legend--border, .metrics__color--bule-003--legend--border, .metrics__color--bule-004--legend--border {
     border-color: rgba(121, 88, 159, .7);
     border-style: none;
     border-width: 1px
@@ -7954,7 +7954,7 @@ progress::-moz-progress-bar {
     color: #fff
 }
 
-.metrics__color--purple-001--background, .metrics__color--purple-001--legend {
+.metrics__color--bule-001--background, .metrics__color--bule-001--legend {
     background-color: rgba(121, 88, 159, .1)
 }
 
@@ -8013,7 +8013,7 @@ progress::-moz-progress-bar {
     color: #56667D
 }
 
-.metrics__color--purple-001--text, .metrics__color--purple-002--text, .metrics__color--purple-003--text, .metrics__color--purple-004--text {
+.metrics__color--bule-001--text, .metrics__color--bule-002--text, .metrics__color--bule-003--text, .metrics__color--bule-004--text {
     color: rgba(121, 88, 159, .7)
 }
 
@@ -8040,55 +8040,55 @@ progress::-moz-progress-bar {
     }
 }
 
-.metrics__color--purple-001--fill {
+.metrics__color--bule-001--fill {
     fill: rgba(121, 88, 159, .1)
 }
 
-.metrics__color--purple-001--stroke {
+.metrics__color--bule-001--stroke {
     stroke: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-001--point {
+.metrics__color--bule-001--point {
     fill: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-002--background, .metrics__color--purple-002--legend {
+.metrics__color--bule-002--background, .metrics__color--bule-002--legend {
     background-color: rgba(121, 88, 159, .3)
 }
 
-.metrics__color--purple-002--fill {
+.metrics__color--bule-002--fill {
     fill: rgba(121, 88, 159, .3)
 }
 
-.metrics__color--purple-002--stroke {
+.metrics__color--bule-002--stroke {
     stroke: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-002--point {
+.metrics__color--bule-002--point {
     fill: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-003--background, .metrics__color--purple-003--legend {
+.metrics__color--bule-003--background, .metrics__color--bule-003--legend {
     background-color: rgba(121, 88, 159, .5)
 }
 
-.metrics__color--purple-003--fill {
+.metrics__color--bule-003--fill {
     fill: rgba(121, 88, 159, .5)
 }
 
-.metrics__color--purple-003--point, .metrics__color--purple-004--fill, .metrics__color--purple-004--point {
+.metrics__color--bule-003--point, .metrics__color--bule-004--fill, .metrics__color--bule-004--point {
     fill: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-003--stroke {
+.metrics__color--bule-003--stroke {
     stroke: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-004--background, .metrics__color--purple-004--legend {
+.metrics__color--bule-004--background, .metrics__color--bule-004--legend {
     background-color: rgba(121, 88, 159, .7)
 }
 
-.metrics__color--purple-004--stroke {
+.metrics__color--bule-004--stroke {
     stroke: rgba(121, 88, 159, .7)
 }
 
@@ -8824,7 +8824,7 @@ progress::-moz-progress-bar {
     min-width: 50px
 }
 
-#overview-page .app-overview-metrics .metrics__chart--minimal.metrics__summary-row--favorite__link-wrapper, #overview-page .metrics__chart--minimal.data-unavailable, .buildpack-installations-list .metrics__chart--minimal.sortable-item.is-dragging, .metrics__chart--minimal.content-box, .metrics__chart--minimal.metrics__monitor-preview-chart__loading, .metrics__chart--minimal.metrics__not-available, .metrics__chart--minimal.purple-box, .metrics__chart-sorting .metrics__chart--minimal.sortable-item.is-dragging {
+#overview-page .app-overview-metrics .metrics__chart--minimal.metrics__summary-row--favorite__link-wrapper, #overview-page .metrics__chart--minimal.data-unavailable, .buildpack-installations-list .metrics__chart--minimal.sortable-item.is-dragging, .metrics__chart--minimal.content-box, .metrics__chart--minimal.metrics__monitor-preview-chart__loading, .metrics__chart--minimal.metrics__not-available, .metrics__chart--minimal.bule-box, .metrics__chart-sorting .metrics__chart--minimal.sortable-item.is-dragging {
     box-shadow: none
 }
 
@@ -11352,28 +11352,28 @@ table td.declined, table td.unpaid {
     display: inline-block
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper, #overview-page .instructions-2fa .data-unavailable, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .instructions-2fa #overview-page .data-unavailable, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging, .instructions-2fa .content-box, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging, .instructions-2fa .metrics__monitor-preview-chart__loading, .instructions-2fa .metrics__not-available, .instructions-2fa .purple-box, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper, #overview-page .instructions-2fa .data-unavailable, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .instructions-2fa #overview-page .data-unavailable, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging, .instructions-2fa .content-box, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging, .instructions-2fa .metrics__monitor-preview-chart__loading, .instructions-2fa .metrics__not-available, .instructions-2fa .bule-box, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging {
     display: inline-block;
     margin-right: 16px;
     padding: 18px 18px 8px
 }
 
 @media (max-width: 1199px) {
-    #overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper, #overview-page .instructions-2fa .data-unavailable, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .instructions-2fa #overview-page .data-unavailable, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging, .instructions-2fa .content-box, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging, .instructions-2fa .metrics__monitor-preview-chart__loading, .instructions-2fa .metrics__not-available, .instructions-2fa .purple-box, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging {
+    #overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper, #overview-page .instructions-2fa .data-unavailable, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .instructions-2fa #overview-page .data-unavailable, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging, .instructions-2fa .content-box, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging, .instructions-2fa .metrics__monitor-preview-chart__loading, .instructions-2fa .metrics__not-available, .instructions-2fa .bule-box, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging {
         margin-bottom: 16px
     }
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper:last-child, #overview-page .instructions-2fa .data-unavailable:last-child, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging:last-child, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper:last-child, .instructions-2fa #overview-page .data-unavailable:last-child, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging:last-child, .instructions-2fa .content-box:last-child, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging:last-child, .instructions-2fa .metrics__monitor-preview-chart__loading:last-child, .instructions-2fa .metrics__not-available:last-child, .instructions-2fa .purple-box:last-child, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging:last-child {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper:last-child, #overview-page .instructions-2fa .data-unavailable:last-child, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging:last-child, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper:last-child, .instructions-2fa #overview-page .data-unavailable:last-child, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging:last-child, .instructions-2fa .content-box:last-child, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging:last-child, .instructions-2fa .metrics__monitor-preview-chart__loading:last-child, .instructions-2fa .metrics__not-available:last-child, .instructions-2fa .bule-box:last-child, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging:last-child {
     margin-bottom: 0
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper, #overview-page .instructions-2fa .qr-code.data-unavailable, .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging, .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper, .instructions-2fa #overview-page .qr-code.data-unavailable, .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging, .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging, .instructions-2fa .purple-box.qr-code, .instructions-2fa .qr-code.content-box, .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading, .instructions-2fa .qr-code.metrics__not-available, .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging {
+#overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper, #overview-page .instructions-2fa .qr-code.data-unavailable, .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging, .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper, .instructions-2fa #overview-page .qr-code.data-unavailable, .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging, .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging, .instructions-2fa .bule-box.qr-code, .instructions-2fa .qr-code.content-box, .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading, .instructions-2fa .qr-code.metrics__not-available, .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging {
     padding: 8px;
     width: 216px
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper .panel-section .panel-details, #overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper p, #overview-page .instructions-2fa .qr-code.data-unavailable .panel-section .panel-details, #overview-page .instructions-2fa .qr-code.data-unavailable p, .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging .panel-section .panel-details, .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging p, .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper .panel-section .panel-details, .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper p, .instructions-2fa #overview-page .qr-code.data-unavailable .panel-section .panel-details, .instructions-2fa #overview-page .qr-code.data-unavailable p, .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging .panel-section .panel-details, .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging p, .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging .panel-section .panel-details, .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging p, .instructions-2fa .purple-box.qr-code .panel-section .panel-details, .instructions-2fa .purple-box.qr-code p, .instructions-2fa .qr-code.content-box .panel-section .panel-details, .instructions-2fa .qr-code.content-box p, .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading .panel-section .panel-details, .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading p, .instructions-2fa .qr-code.metrics__not-available .panel-section .panel-details, .instructions-2fa .qr-code.metrics__not-available p, .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging .panel-section .panel-details, .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging p, .panel-section #overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper .panel-details, .panel-section #overview-page .instructions-2fa .qr-code.data-unavailable .panel-details, .panel-section .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging .panel-details, .panel-section .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper .panel-details, .panel-section .instructions-2fa #overview-page .qr-code.data-unavailable .panel-details, .panel-section .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging .panel-details, .panel-section .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging .panel-details, .panel-section .instructions-2fa .purple-box.qr-code .panel-details, .panel-section .instructions-2fa .qr-code.content-box .panel-details, .panel-section .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading .panel-details, .panel-section .instructions-2fa .qr-code.metrics__not-available .panel-details, .panel-section .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging .panel-details {
+#overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper .panel-section .panel-details, #overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper p, #overview-page .instructions-2fa .qr-code.data-unavailable .panel-section .panel-details, #overview-page .instructions-2fa .qr-code.data-unavailable p, .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging .panel-section .panel-details, .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging p, .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper .panel-section .panel-details, .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper p, .instructions-2fa #overview-page .qr-code.data-unavailable .panel-section .panel-details, .instructions-2fa #overview-page .qr-code.data-unavailable p, .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging .panel-section .panel-details, .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging p, .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging .panel-section .panel-details, .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging p, .instructions-2fa .bule-box.qr-code .panel-section .panel-details, .instructions-2fa .bule-box.qr-code p, .instructions-2fa .qr-code.content-box .panel-section .panel-details, .instructions-2fa .qr-code.content-box p, .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading .panel-section .panel-details, .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading p, .instructions-2fa .qr-code.metrics__not-available .panel-section .panel-details, .instructions-2fa .qr-code.metrics__not-available p, .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging .panel-section .panel-details, .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging p, .panel-section #overview-page .app-overview-metrics .instructions-2fa .qr-code.metrics__summary-row--favorite__link-wrapper .panel-details, .panel-section #overview-page .instructions-2fa .qr-code.data-unavailable .panel-details, .panel-section .buildpack-installations-list .instructions-2fa .qr-code.sortable-item.is-dragging .panel-details, .panel-section .instructions-2fa #overview-page .app-overview-metrics .qr-code.metrics__summary-row--favorite__link-wrapper .panel-details, .panel-section .instructions-2fa #overview-page .qr-code.data-unavailable .panel-details, .panel-section .instructions-2fa .buildpack-installations-list .qr-code.sortable-item.is-dragging .panel-details, .panel-section .instructions-2fa .metrics__chart-sorting .qr-code.sortable-item.is-dragging .panel-details, .panel-section .instructions-2fa .bule-box.qr-code .panel-details, .panel-section .instructions-2fa .qr-code.content-box .panel-details, .panel-section .instructions-2fa .qr-code.metrics__monitor-preview-chart__loading .panel-details, .panel-section .instructions-2fa .qr-code.metrics__not-available .panel-details, .panel-section .metrics__chart-sorting .instructions-2fa .qr-code.sortable-item.is-dragging .panel-details {
     margin-top: 8px;
     margin-bottom: -2px;
     font-size: 12px;
@@ -11381,13 +11381,13 @@ table td.declined, table td.unpaid {
     padding: 0 4px
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta, #overview-page .instructions-2fa .data-unavailable .meta, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta, .instructions-2fa #overview-page .data-unavailable .meta, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta, .instructions-2fa .content-box .meta, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta, .instructions-2fa .metrics__monitor-preview-chart__loading .meta, .instructions-2fa .metrics__not-available .meta, .instructions-2fa .purple-box .meta, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta, #overview-page .instructions-2fa .data-unavailable .meta, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta, .instructions-2fa #overview-page .data-unavailable .meta, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta, .instructions-2fa .content-box .meta, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta, .instructions-2fa .metrics__monitor-preview-chart__loading .meta, .instructions-2fa .metrics__not-available .meta, .instructions-2fa .bule-box .meta, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta {
     position: relative;
     padding-left: 44px;
     padding-bottom: 16px
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta h5, #overview-page .instructions-2fa .data-unavailable .meta h5, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta h5, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta h5, .instructions-2fa #overview-page .data-unavailable .meta h5, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta h5, .instructions-2fa .content-box .meta h5, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta h5, .instructions-2fa .metrics__monitor-preview-chart__loading .meta h5, .instructions-2fa .metrics__not-available .meta h5, .instructions-2fa .purple-box .meta h5, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta h5 {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta h5, #overview-page .instructions-2fa .data-unavailable .meta h5, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta h5, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta h5, .instructions-2fa #overview-page .data-unavailable .meta h5, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta h5, .instructions-2fa .content-box .meta h5, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta h5, .instructions-2fa .metrics__monitor-preview-chart__loading .meta h5, .instructions-2fa .metrics__not-available .meta h5, .instructions-2fa .bule-box .meta h5, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta h5 {
     color: #3F3F44;
     font-size: 13px;
     font-weight: 700;
@@ -11395,17 +11395,17 @@ table td.declined, table td.unpaid {
     margin-bottom: 2px
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta a, #overview-page .instructions-2fa .data-unavailable .meta a, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta a, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta a, .instructions-2fa #overview-page .data-unavailable .meta a, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta a, .instructions-2fa .content-box .meta a, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta a, .instructions-2fa .metrics__monitor-preview-chart__loading .meta a, .instructions-2fa .metrics__not-available .meta a, .instructions-2fa .purple-box .meta a, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta a {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta a, #overview-page .instructions-2fa .data-unavailable .meta a, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta a, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta a, .instructions-2fa #overview-page .data-unavailable .meta a, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta a, .instructions-2fa .content-box .meta a, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta a, .instructions-2fa .metrics__monitor-preview-chart__loading .meta a, .instructions-2fa .metrics__not-available .meta a, .instructions-2fa .bule-box .meta a, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta a {
     color: #62738D;
     text-decoration: none;
     font-size: 12px
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta a:hover, #overview-page .instructions-2fa .data-unavailable .meta a:hover, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta a:hover, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta a:hover, .instructions-2fa #overview-page .data-unavailable .meta a:hover, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta a:hover, .instructions-2fa .content-box .meta a:hover, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta a:hover, .instructions-2fa .metrics__monitor-preview-chart__loading .meta a:hover, .instructions-2fa .metrics__not-available .meta a:hover, .instructions-2fa .purple-box .meta a:hover, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta a:hover {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta a:hover, #overview-page .instructions-2fa .data-unavailable .meta a:hover, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta a:hover, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta a:hover, .instructions-2fa #overview-page .data-unavailable .meta a:hover, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta a:hover, .instructions-2fa .content-box .meta a:hover, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta a:hover, .instructions-2fa .metrics__monitor-preview-chart__loading .meta a:hover, .instructions-2fa .metrics__not-available .meta a:hover, .instructions-2fa .bule-box .meta a:hover, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta a:hover {
     color: #3F3F44
 }
 
-#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta img, #overview-page .instructions-2fa .data-unavailable .meta img, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta img, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta img, .instructions-2fa #overview-page .data-unavailable .meta img, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta img, .instructions-2fa .content-box .meta img, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta img, .instructions-2fa .metrics__monitor-preview-chart__loading .meta img, .instructions-2fa .metrics__not-available .meta img, .instructions-2fa .purple-box .meta img, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta img {
+#overview-page .app-overview-metrics .instructions-2fa .metrics__summary-row--favorite__link-wrapper .meta img, #overview-page .instructions-2fa .data-unavailable .meta img, .buildpack-installations-list .instructions-2fa .sortable-item.is-dragging .meta img, .instructions-2fa #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .meta img, .instructions-2fa #overview-page .data-unavailable .meta img, .instructions-2fa .buildpack-installations-list .sortable-item.is-dragging .meta img, .instructions-2fa .content-box .meta img, .instructions-2fa .metrics__chart-sorting .sortable-item.is-dragging .meta img, .instructions-2fa .metrics__monitor-preview-chart__loading .meta img, .instructions-2fa .metrics__not-available .meta img, .instructions-2fa .bule-box .meta img, .metrics__chart-sorting .instructions-2fa .sortable-item.is-dragging .meta img {
     position: absolute;
     left: 0;
     top: 0;
@@ -11414,7 +11414,7 @@ table td.declined, table td.unpaid {
 }
 
 .instructions-2fa .steps {
-    counter-reset: purple-numbers;
+    counter-reset: bule-numbers;
     list-style: none;
     padding-left: 0
 }
@@ -11445,8 +11445,8 @@ table td.declined, table td.unpaid {
 }
 
 .instructions-2fa .steps > li::before {
-    content: counter(purple-numbers);
-    counter-increment: purple-numbers;
+    content: counter(bule-numbers);
+    counter-increment: bule-numbers;
     position: absolute;
     top: 29px;
     left: 0;
@@ -11648,7 +11648,7 @@ table.editable-list.ssh-keys td .local {
     margin: 0 30px 10px
 }
 
-#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper, #overview-page .modal-prompt .modal-body .data-unavailable, #overview-page .two-factor .modal-body .data-unavailable, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .modal-prompt .modal-body #overview-page .data-unavailable, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging, .modal-prompt .modal-body .content-box, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading, .modal-prompt .modal-body .metrics__not-available, .modal-prompt .modal-body .purple-box, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .two-factor .modal-body #overview-page .data-unavailable, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging, .two-factor .modal-body .content-box, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging, .two-factor .modal-body .metrics__monitor-preview-chart__loading, .two-factor .modal-body .metrics__not-available, .two-factor .modal-body .purple-box {
+#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper, #overview-page .modal-prompt .modal-body .data-unavailable, #overview-page .two-factor .modal-body .data-unavailable, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .modal-prompt .modal-body #overview-page .data-unavailable, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging, .modal-prompt .modal-body .content-box, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading, .modal-prompt .modal-body .metrics__not-available, .modal-prompt .modal-body .bule-box, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, .two-factor .modal-body #overview-page .data-unavailable, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging, .two-factor .modal-body .content-box, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging, .two-factor .modal-body .metrics__monitor-preview-chart__loading, .two-factor .modal-body .metrics__not-available, .two-factor .modal-body .bule-box {
     position: relative;
     margin: 16px auto 14px;
     text-align: left;
@@ -11656,22 +11656,22 @@ table.editable-list.ssh-keys td .local {
     padding: 12px
 }
 
-#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper h5, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper h5, #overview-page .modal-prompt .modal-body .data-unavailable h5, #overview-page .two-factor .modal-body .data-unavailable h5, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging h5, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging h5, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging h5, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging h5, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper h5, .modal-prompt .modal-body #overview-page .data-unavailable h5, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging h5, .modal-prompt .modal-body .content-box h5, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging h5, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading h5, .modal-prompt .modal-body .metrics__not-available h5, .modal-prompt .modal-body .purple-box h5, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper h5, .two-factor .modal-body #overview-page .data-unavailable h5, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging h5, .two-factor .modal-body .content-box h5, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging h5, .two-factor .modal-body .metrics__monitor-preview-chart__loading h5, .two-factor .modal-body .metrics__not-available h5, .two-factor .modal-body .purple-box h5 {
+#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper h5, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper h5, #overview-page .modal-prompt .modal-body .data-unavailable h5, #overview-page .two-factor .modal-body .data-unavailable h5, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging h5, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging h5, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging h5, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging h5, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper h5, .modal-prompt .modal-body #overview-page .data-unavailable h5, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging h5, .modal-prompt .modal-body .content-box h5, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging h5, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading h5, .modal-prompt .modal-body .metrics__not-available h5, .modal-prompt .modal-body .bule-box h5, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper h5, .two-factor .modal-body #overview-page .data-unavailable h5, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging h5, .two-factor .modal-body .content-box h5, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging h5, .two-factor .modal-body .metrics__monitor-preview-chart__loading h5, .two-factor .modal-body .metrics__not-available h5, .two-factor .modal-body .bule-box h5 {
     font-size: 13px;
     color: #62738D;
     margin-top: 0
 }
 
-#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper .actions, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper .actions, #overview-page .modal-prompt .modal-body .data-unavailable .actions, #overview-page .two-factor .modal-body .data-unavailable .actions, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging .actions, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging .actions, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging .actions, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging .actions, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions, .modal-prompt .modal-body #overview-page .data-unavailable .actions, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions, .modal-prompt .modal-body .content-box .actions, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading .actions, .modal-prompt .modal-body .metrics__not-available .actions, .modal-prompt .modal-body .purple-box .actions, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions, .two-factor .modal-body #overview-page .data-unavailable .actions, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions, .two-factor .modal-body .content-box .actions, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions, .two-factor .modal-body .metrics__monitor-preview-chart__loading .actions, .two-factor .modal-body .metrics__not-available .actions, .two-factor .modal-body .purple-box .actions {
+#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper .actions, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper .actions, #overview-page .modal-prompt .modal-body .data-unavailable .actions, #overview-page .two-factor .modal-body .data-unavailable .actions, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging .actions, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging .actions, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging .actions, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging .actions, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions, .modal-prompt .modal-body #overview-page .data-unavailable .actions, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions, .modal-prompt .modal-body .content-box .actions, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading .actions, .modal-prompt .modal-body .metrics__not-available .actions, .modal-prompt .modal-body .bule-box .actions, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions, .two-factor .modal-body #overview-page .data-unavailable .actions, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions, .two-factor .modal-body .content-box .actions, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions, .two-factor .modal-body .metrics__monitor-preview-chart__loading .actions, .two-factor .modal-body .metrics__not-available .actions, .two-factor .modal-body .bule-box .actions {
     overflow: hidden;
     width: 100%
 }
 
-#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, #overview-page .modal-prompt .modal-body .data-unavailable .actions .btn-primary, #overview-page .two-factor .modal-body .data-unavailable .actions .btn-primary, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-primary, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging .actions .btn-primary, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-primary, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging .actions .btn-primary, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, .modal-prompt .modal-body #overview-page .data-unavailable .actions .btn-primary, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-primary, .modal-prompt .modal-body .content-box .actions .btn-primary, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-primary, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading .actions .btn-primary, .modal-prompt .modal-body .metrics__not-available .actions .btn-primary, .modal-prompt .modal-body .purple-box .actions .btn-primary, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, .two-factor .modal-body #overview-page .data-unavailable .actions .btn-primary, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-primary, .two-factor .modal-body .content-box .actions .btn-primary, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-primary, .two-factor .modal-body .metrics__monitor-preview-chart__loading .actions .btn-primary, .two-factor .modal-body .metrics__not-available .actions .btn-primary, .two-factor .modal-body .purple-box .actions .btn-primary {
+#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, #overview-page .modal-prompt .modal-body .data-unavailable .actions .btn-primary, #overview-page .two-factor .modal-body .data-unavailable .actions .btn-primary, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-primary, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging .actions .btn-primary, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-primary, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging .actions .btn-primary, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, .modal-prompt .modal-body #overview-page .data-unavailable .actions .btn-primary, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-primary, .modal-prompt .modal-body .content-box .actions .btn-primary, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-primary, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading .actions .btn-primary, .modal-prompt .modal-body .metrics__not-available .actions .btn-primary, .modal-prompt .modal-body .bule-box .actions .btn-primary, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-primary, .two-factor .modal-body #overview-page .data-unavailable .actions .btn-primary, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-primary, .two-factor .modal-body .content-box .actions .btn-primary, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-primary, .two-factor .modal-body .metrics__monitor-preview-chart__loading .actions .btn-primary, .two-factor .modal-body .metrics__not-available .actions .btn-primary, .two-factor .modal-body .bule-box .actions .btn-primary {
     float: left
 }
 
-#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-default, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-default, #overview-page .modal-prompt .modal-body .data-unavailable .actions .btn-default, #overview-page .two-factor .modal-body .data-unavailable .actions .btn-default, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-default, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging .actions .btn-default, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-default, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging .actions .btn-default, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-default, .modal-prompt .modal-body #overview-page .data-unavailable .actions .btn-default, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-default, .modal-prompt .modal-body .content-box .actions .btn-default, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-default, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading .actions .btn-default, .modal-prompt .modal-body .metrics__not-available .actions .btn-default, .modal-prompt .modal-body .purple-box .actions .btn-default, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-default, .two-factor .modal-body #overview-page .data-unavailable .actions .btn-default, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-default, .two-factor .modal-body .content-box .actions .btn-default, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-default, .two-factor .modal-body .metrics__monitor-preview-chart__loading .actions .btn-default, .two-factor .modal-body .metrics__not-available .actions .btn-default, .two-factor .modal-body .purple-box .actions .btn-default {
+#overview-page .app-overview-metrics .modal-prompt .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-default, #overview-page .app-overview-metrics .two-factor .modal-body .metrics__summary-row--favorite__link-wrapper .actions .btn-default, #overview-page .modal-prompt .modal-body .data-unavailable .actions .btn-default, #overview-page .two-factor .modal-body .data-unavailable .actions .btn-default, .buildpack-installations-list .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-default, .buildpack-installations-list .two-factor .modal-body .sortable-item.is-dragging .actions .btn-default, .metrics__chart-sorting .modal-prompt .modal-body .sortable-item.is-dragging .actions .btn-default, .metrics__chart-sorting .two-factor .modal-body .sortable-item.is-dragging .actions .btn-default, .modal-prompt .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-default, .modal-prompt .modal-body #overview-page .data-unavailable .actions .btn-default, .modal-prompt .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-default, .modal-prompt .modal-body .content-box .actions .btn-default, .modal-prompt .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-default, .modal-prompt .modal-body .metrics__monitor-preview-chart__loading .actions .btn-default, .modal-prompt .modal-body .metrics__not-available .actions .btn-default, .modal-prompt .modal-body .bule-box .actions .btn-default, .two-factor .modal-body #overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .actions .btn-default, .two-factor .modal-body #overview-page .data-unavailable .actions .btn-default, .two-factor .modal-body .buildpack-installations-list .sortable-item.is-dragging .actions .btn-default, .two-factor .modal-body .content-box .actions .btn-default, .two-factor .modal-body .metrics__chart-sorting .sortable-item.is-dragging .actions .btn-default, .two-factor .modal-body .metrics__monitor-preview-chart__loading .actions .btn-default, .two-factor .modal-body .metrics__not-available .actions .btn-default, .two-factor .modal-body .bule-box .actions .btn-default {
     float: right
 }
 
@@ -14102,7 +14102,7 @@ table.editable-list.ssh-keys td .local {
     color: #F38900
 }
 
-.log-color--purple {
+.log-color--bule {
     color: #8854B3
 }
 
@@ -14248,11 +14248,11 @@ table.editable-list.ssh-keys td .local {
     }
 }
 
-#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, #overview-page .buildpack-installations-list .sortable-item.is-dragging, #overview-page .content-box, #overview-page .data-unavailable, #overview-page .metrics__chart-sorting .sortable-item.is-dragging, #overview-page .metrics__monitor-preview-chart__loading, #overview-page .metrics__not-available, #overview-page .purple-box, .buildpack-installations-list #overview-page .sortable-item.is-dragging, .metrics__chart-sorting #overview-page .sortable-item.is-dragging {
+#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, #overview-page .buildpack-installations-list .sortable-item.is-dragging, #overview-page .content-box, #overview-page .data-unavailable, #overview-page .metrics__chart-sorting .sortable-item.is-dragging, #overview-page .metrics__monitor-preview-chart__loading, #overview-page .metrics__not-available, #overview-page .bule-box, .buildpack-installations-list #overview-page .sortable-item.is-dragging, .metrics__chart-sorting #overview-page .sortable-item.is-dragging {
     margin-bottom: 32px
 }
 
-#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .show-more, #overview-page .buildpack-installations-list .sortable-item.is-dragging .show-more, #overview-page .content-box .show-more, #overview-page .data-unavailable .show-more, #overview-page .metrics__chart-sorting .sortable-item.is-dragging .show-more, #overview-page .metrics__monitor-preview-chart__loading .show-more, #overview-page .metrics__not-available .show-more, #overview-page .purple-box .show-more, .buildpack-installations-list #overview-page .sortable-item.is-dragging .show-more, .metrics__chart-sorting #overview-page .sortable-item.is-dragging .show-more {
+#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .show-more, #overview-page .buildpack-installations-list .sortable-item.is-dragging .show-more, #overview-page .content-box .show-more, #overview-page .data-unavailable .show-more, #overview-page .metrics__chart-sorting .sortable-item.is-dragging .show-more, #overview-page .metrics__monitor-preview-chart__loading .show-more, #overview-page .metrics__not-available .show-more, #overview-page .bule-box .show-more, .buildpack-installations-list #overview-page .sortable-item.is-dragging .show-more, .metrics__chart-sorting #overview-page .sortable-item.is-dragging .show-more {
     padding: 0 20px 10px;
     font-size: 13px
 }
@@ -15826,7 +15826,7 @@ body.modal-is-open {
     overflow: hidden
 }
 
-#modal-overlays .ember-modal-dialog.purple-list-modal .modal-box, .drop-down {
+#modal-overlays .ember-modal-dialog.bule-list-modal .modal-box, .drop-down {
     overflow: visible
 }
 
@@ -15885,7 +15885,7 @@ body.modal-is-open {
     list-style: none
 }
 
-table.purple-list .action-cell {
+table.bule-list .action-cell {
     width: 108px;
     text-align: right
 }
@@ -15926,24 +15926,24 @@ table.purple-list .action-cell {
     }
 }
 
-table.purple-list .new-list-item {
+table.bule-list .new-list-item {
     -webkit-animation: fadeIt 1.5s ease-in;
     -moz-animation: fadeIt 1.5s ease-in;
     -o-animation: fadeIt 1.5s ease-in;
     animation: fadeIt 1.5s ease-in
 }
 
-#modal-overlays .ember-modal-dialog.purple-list-modal .panel-section, #modal-overlays .ember-modal-dialog.purple-list-modal .row {
+#modal-overlays .ember-modal-dialog.bule-list-modal .panel-section, #modal-overlays .ember-modal-dialog.bule-list-modal .row {
     padding: 0 10px
 }
 
-#modal-overlays .ember-modal-dialog.purple-list-modal .col-sm-12 {
+#modal-overlays .ember-modal-dialog.bule-list-modal .col-sm-12 {
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 18px
 }
 
-#modal-overlays .ember-modal-dialog.purple-list-modal .btn-primary, #modal-overlays .ember-modal-dialog.purple-list-modal .hk-button--primary, #modal-overlays .ember-modal-dialog.purple-list-modal .twitter-typeahead {
+#modal-overlays .ember-modal-dialog.bule-list-modal .btn-primary, #modal-overlays .ember-modal-dialog.bule-list-modal .hk-button--primary, #modal-overlays .ember-modal-dialog.bule-list-modal .twitter-typeahead {
     width: 100%
 }
 
@@ -18950,18 +18950,18 @@ h2 {
     background: inherit
 }
 
-#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, #overview-page .data-unavailable, .buildpack-installations-list .sortable-item.is-dragging, .content-box, .metrics__chart-sorting .sortable-item.is-dragging, .metrics__monitor-preview-chart__loading, .metrics__not-available, .purple-box {
+#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper, #overview-page .data-unavailable, .buildpack-installations-list .sortable-item.is-dragging, .content-box, .metrics__chart-sorting .sortable-item.is-dragging, .metrics__monitor-preview-chart__loading, .metrics__not-available, .bule-box {
     background-color: #fff;
     box-shadow: 0 0 0 1px rgba(89, 105, 128, .1), 0 1px 3px 0 rgba(89, 105, 128, .1), 0 1px 2px 0 rgba(0, 0, 0, .05)
 }
 
-#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .close-purple-box, #overview-page .data-unavailable .close-purple-box, .buildpack-installations-list .sortable-item.is-dragging .close-purple-box, .content-box .close-purple-box, .metrics__chart-sorting .sortable-item.is-dragging .close-purple-box, .metrics__monitor-preview-chart__loading .close-purple-box, .metrics__not-available .close-purple-box, .purple-box .close-purple-box {
+#overview-page .app-overview-metrics .metrics__summary-row--favorite__link-wrapper .close-bule-box, #overview-page .data-unavailable .close-bule-box, .buildpack-installations-list .sortable-item.is-dragging .close-bule-box, .content-box .close-bule-box, .metrics__chart-sorting .sortable-item.is-dragging .close-bule-box, .metrics__monitor-preview-chart__loading .close-bule-box, .metrics__not-available .close-bule-box, .bule-box .close-bule-box {
     position: absolute;
     top: 20px;
     right: 20px
 }
 
-.purple-box__header {
+.bule-box__header {
     background-color: transparent;
     margin: 0;
     padding: 10px;
@@ -18971,7 +18971,7 @@ h2 {
     color: #56667D
 }
 
-.panel-section .purple-box__header .panel-details, .purple-box__header .panel-section .panel-details, .purple-box__header p {
+.panel-section .bule-box__header .panel-details, .bule-box__header .panel-section .panel-details, .bule-box__header p {
     color: #56667D
 }
 

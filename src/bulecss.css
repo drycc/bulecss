@@ -1632,9 +1632,9 @@ body,html
 	margin-bottom: 10px
 }
 
-.malibu-fill-gradient-purple
+.malibu-fill-gradient-bule
 {
-	fill: url(#gradient-purple)
+	fill: url(#gradient-bule)
 }
 
 .malibu-fill-gradient-gray
@@ -2003,22 +2003,22 @@ body,html
 	background-color: transparent
 }
 
-.bg-dark-purple
+.bg-dark-bule
 {
 	background: #4f3074
 }
 
-.bg-purple
+.bg-bule
 {
 	background: #409EFF
 }
 
-.bg-light-purple
+.bg-light-bule
 {
 	background: #a997bf
 }
 
-.bg-lightest-purple
+.bg-lightest-bule
 {
 	background: #f7f3fb
 }
@@ -2650,22 +2650,22 @@ body,html
 	background-color: #fff
 }
 
-.hover-bg-dark-purple:focus,.hover-bg-dark-purple:hover
+.hover-bg-dark-bule:focus,.hover-bg-dark-bule:hover
 {
 	background-color: #4f3074
 }
 
-.hover-bg-purple:focus,.hover-bg-purple:hover
+.hover-bg-bule:focus,.hover-bg-bule:hover
 {
 	background-color: #409EFF
 }
 
-.hover-bg-light-purple:focus,.hover-bg-light-purple:hover
+.hover-bg-light-bule:focus,.hover-bg-light-bule:hover
 {
 	background-color: #a997bf
 }
 
-.hover-bg-lightest-purple:focus,.hover-bg-lightest-purple:hover
+.hover-bg-lightest-bule:focus,.hover-bg-lightest-bule:hover
 {
 	background-color: #f7f3fb
 }
@@ -3221,22 +3221,22 @@ body,html
 	border-color: #fff
 }
 
-.b--dark-purple
+.b--dark-bule
 {
 	border-color: #4f3074
 }
 
-.b--purple
+.b--bule
 {
 	border-color: #409EFF
 }
 
-.b--light-purple
+.b--light-bule
 {
 	border-color: #a997bf
 }
 
-.b--lightest-purple
+.b--lightest-bule
 {
 	border-color: #f7f3fb
 }
@@ -3601,22 +3601,22 @@ body,html
 	border-color: #fff
 }
 
-.hover-b--dark-purple:focus,.hover-b--dark-purple:hover
+.hover-b--dark-bule:focus,.hover-b--dark-bule:hover
 {
 	border-color: #4f3074
 }
 
-.hover-b--purple:focus,.hover-b--purple:hover
+.hover-b--bule:focus,.hover-b--bule:hover
 {
 	border-color: #409EFF
 }
 
-.hover-b--light-purple:focus,.hover-b--light-purple:hover
+.hover-b--light-bule:focus,.hover-b--light-bule:hover
 {
 	border-color: #a997bf
 }
 
-.hover-b--lightest-purple:focus,.hover-b--lightest-purple:hover
+.hover-b--lightest-bule:focus,.hover-b--lightest-bule:hover
 {
 	border-color: #f7f3fb
 }
@@ -5613,12 +5613,12 @@ body,html
 	fill: #fbf1a9
 }
 
-.fill-purple
+.fill-bule
 {
 	fill: #409EFF
 }
 
-.fill-light-purple
+.fill-light-bule
 {
 	fill: #a997bf
 }
@@ -5798,12 +5798,12 @@ body,html
 	fill: #fbf1a9
 }
 
-.hover-fill-purple:hover
+.hover-fill-bule:hover
 {
 	fill: #409EFF
 }
 
-.hover-fill-light-purple:hover
+.hover-fill-light-bule:hover
 {
 	fill: #a997bf
 }
@@ -11853,22 +11853,22 @@ img
 	color: #fff
 }
 
-.dark-purple
+.dark-bule
 {
 	color: #4f3074
 }
 
-.purple
+.bule
 {
 	color: #409EFF
 }
 
-.light-purple
+.light-bule
 {
 	color: #a997bf
 }
 
-.lightest-purple
+.lightest-bule
 {
 	color: #f7f3fb
 }
@@ -12213,22 +12213,22 @@ img
 	color: #fff
 }
 
-.hover-dark-purple:focus,.hover-dark-purple:hover
+.hover-dark-bule:focus,.hover-dark-bule:hover
 {
 	color: #4f3074
 }
 
-.hover-purple:focus,.hover-purple:hover
+.hover-bule:focus,.hover-bule:hover
 {
 	color: #409EFF
 }
 
-.hover-light-purple:focus,.hover-light-purple:hover
+.hover-light-bule:focus,.hover-light-bule:hover
 {
 	color: #a997bf
 }
 
-.hover-lightest-purple:focus,.hover-lightest-purple:hover
+.hover-lightest-bule:focus,.hover-lightest-bule:hover
 {
 	color: #f7f3fb
 }
@@ -16336,12 +16336,12 @@ img
 	stroke: #fbf1a9
 }
 
-.stroke-purple
+.stroke-bule
 {
 	stroke: #409EFF
 }
 
-.stroke-light-purple
+.stroke-light-bule
 {
 	stroke: #a997bf
 }
@@ -16521,12 +16521,12 @@ img
 	stroke: #fbf1a9
 }
 
-.hover-stroke-purple:hover
+.hover-stroke-bule:hover
 {
 	stroke: #409EFF
 }
 
-.hover-stroke-light-purple:hover
+.hover-stroke-light-bule:hover
 {
 	stroke: #a997bf
 }
