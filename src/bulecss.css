@@ -216,6 +216,10 @@ body,html
 	line-height: 1
 }
 
+.bule {
+	color: #409eff;
+}
+
 .hk-badge,.hk-badge--square
 {
 	font-weight: 600;
