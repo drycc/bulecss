@@ -8,8 +8,9 @@ steps:
   commands:
   - podman build --build-arg CODENAME=$CODENAME -f Dockerfile.build . -t grunt
   - podman run --rm -v $PWD:/workspace grunt _scripts/build.sh
-  secrets:
-  - codename
+  environment:
+    CODENAME:
+      from_secret: codename
   when:
     event:
     - tag
@@ -24,10 +25,17 @@ steps:
     -v $PWD:/workspace
     grunt
     python3 _scripts/storage.py build
-  secrets:
-  - oss_endpoint
-  - oss_access_key_id
-  - oss_access_key_secret
+  environment:
+    OSS_ENDPOINT:
+      from_secret: oss_endpoint
+    OSS_ACCESS_KEY_ID:
+      from_secret: oss_access_key_id
+    OSS_ACCESS_KEY_SECRET:
+      from_secret: oss_access_key_secret
+    CONTAINER_USERNAME:
+      from_secret: container_username
+    CONTAINER_PASSWORD:
+      from_secret: container_password
   when:
     event:
     - tag
