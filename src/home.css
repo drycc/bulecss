@@ -14,7 +14,7 @@
 }
 
 .glostick::after {
-    background: linear-gradient(to right, #79bbff, #8ECDEA);
+    background: linear-gradient(to right, #5b9ce8, #8ECDEA);
     content:'';
     width:100%;
     position: absolute;
@@ -66,7 +66,7 @@
     height: 50px;
     width: auto;
     text-decoration: none;
-    color: #79bbff!important;
+    color: #5b9ce8!important;
     padding-left: 0px;
     font-size: 18px;
 }
@@ -82,15 +82,15 @@
 }
 
 .glostick__property__name:hover {
-    color: #79bbff!important;
+    color: #5b9ce8!important;
 }
 
 .glostick__property__name:active {
-    color: #79bbff!important;
+    color: #5b9ce8!important;
 }
 
 .glostick__property__name:focus {
-    color: #79bbff!important;
+    color: #5b9ce8!important;
 }
 
 .glostick__property__name span {

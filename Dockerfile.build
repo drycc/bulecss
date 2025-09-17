@@ -1,8 +1,8 @@
 ARG CODENAME
 FROM registry.drycc.cc/drycc/base:${CODENAME} as build-app
 
-ENV NODE_VERSION="18"
-ENV PYTHON_VERSION="3.11"
+ENV NODE_VERSION="22"
+ENV PYTHON_VERSION="3.13"
 
 RUN install-stack node $NODE_VERSION \
   && install-stack python $PYTHON_VERSION \

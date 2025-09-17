@@ -5009,7 +5009,7 @@ form label {
 }
 
 .btn-primary.active, .btn-primary:active, .open > .btn-primary.drop-down__toggle, .open > .btn-primary.dropdown-toggle {
-    background-color: #79bbff !important;
+    background-color: #5b9ce8 !important;
     box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .1) !important
 }
 
